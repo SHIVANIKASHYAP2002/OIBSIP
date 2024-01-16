@@ -1,0 +1,13 @@
+Question1.Who is the current Prime Minister of India? (a)Narendra Modi (b)Amit Shah(c)Nirmala Sitharaman
+Question2. Who is the Minister of Home Affairs in India? (a)Narendra Modi (b)Amit Shah(c)Nirmala Sitharaman
+Question3. Who is the Minister of Finance in India? (a)Narendra Modi (b)Amit Shah(c)Nirmala Sitharaman
+Question4. Who is the Minister of External Affairs in India? (a)Subrahmanyam Jaishankar (b)Amit Shah(c)Nirmala Sitharaman
+Question5. Who is the Minister of Defence in India? (a)Subrahmanyam Jaishankar (b)Amit Shah(c)Rajnath Singh
+Question6. Who is the Minister of Health and Family Welfare in India? (a)Mansukh Mandaviya (b)Rajnath Singh(c)Nirmala Sitharaman
+Question7. Who is the Minister of Road Transport and Highways in India? (a)Narendra Modi (b)Nitin Gadkari(c)Nirmala Sitharaman
+Question8. Who is the Minister of Railways in India? (a)Narendra Modi (b)Ashwini Vaishnaw(c)Nirmala Sitharaman
+Question9. Who is the Minister of Education in India? (a)Dharmendra Pradhan (b)Amit Shah(c)Nirmala Sitharaman
+Question10. Who is the Minister of Agriculture and Farmers Welfare in India? (a)Narendra Singh Tomar (b)Amit Shah(c)Nirmala Sitharaman
+Question11. Who is the Minister of Women and Child Development in India? (a)Smriti Irani (b)Amit Shah(c)Nirmala Sitharaman
+Question12. Who is the Minister of Law and Justice in India? (a)Kiran Rijiju(b)Amit Shah(c)Nirmala Sitharaman
+Question13. Who is the Minister of Information and Broadcasting in India? (a)Anurag Thakur (b)Amit Shah(c)Nirmala Sitharaman
